@@ -1,7 +1,9 @@
 # SimClass
 Code and data for the NAACL 2025 paper "Simulating Classroom Education with LLM-Empowered Agents"
 
-<img src="./simclass.jpg"></img> 
+<div align="center">
+<img src="./simclass.png" width="500em" ></img> 
+</div>
 
 ## Code <!-- omit in toc -->
 
